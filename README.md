@@ -2,9 +2,11 @@
 
 ---
 
-- Objective : 
-  - **To classifiy different Sounds from urban cities**
+- ### Objective : 
+
+  - **To classifiy different Sounds from Urban Cities**
   - used **Librosa** library for music and audio analysis
+  
 - Classification Problem
 - Data cleaning
 - Exploratory Data Analysis
