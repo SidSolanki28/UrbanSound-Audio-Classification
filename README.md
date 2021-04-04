@@ -3,7 +3,7 @@
 ---
 
 - Objective : 
-  - **To classifiy UrbanSound**
+  - **To classifiy different Sounds from urban cities**
   - used **Librosa** library for music and audio analysis
 - Classification Problem
 - Data cleaning
