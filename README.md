@@ -2,6 +2,8 @@
 
 ---
 
+<img src="https://github.com/SidSolanki28/Sid_Portfolio/raw/master/images/sound-effects-packs.jpg">
+
 - ### Objective : 
 
   - **To classifiy different Sounds from Urban Cities**
@@ -13,8 +15,7 @@
 - Data Preprocessing : Feature Extraction using MFCC
 - **Artificial Neural Network (ANN)** Training and Prediction
 
-<img src="https://github.com/SidSolanki28/Sid_Portfolio/raw/master/images/sound-effects-packs.jpg">
-
+---
 ## Links
 
 #### [Kaggle Link -> Urban Sound Audio Classification Part 1 -  Intro & EDA](https://www.kaggle.com/sidsolanki/urban-sound-audio-classification-part-1)
